@@ -47,7 +47,7 @@ Make sure you have the following installed:
 ## **🚀 Getting Started**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/v-profile-setup.git
+   git clone https://github.com/poppyszn/V-Profile-Project-Setup-Automated-Multi-Tier-Web-Application-Stack.git
    cd v-profile-setup
    ```
 2. Navigate to the Vagrant directory:
