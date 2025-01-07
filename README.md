@@ -57,6 +57,7 @@ Make sure you have the following installed:
 
 3. Spin up the virtual machines:
     ```bash
+    vagrant plugin install vagrant-hostmanager
     vagrant up
     ```
   
