@@ -1,10 +1,10 @@
-# 🌐 V-Profile Project Setup: Automated Multi-Tier Web Application Stack 🌟
+# V-Profile Project Setup: Automated Multi-Tier Web Application Stack
 
 Welcome to the **V-Profile Project Setup**, a fully automated, multi-tier web application stack designed for DevOps engineers and developers who want to explore and master infrastructure automation and local R&D. 🚀
 
 ---
 
-## **🌟 Project Overview**
+## ** Project Overview**
 In this project, you'll:
 - 🏗️ Set up a social networking web application using **Java**.
 - 🖥️ Automate the deployment of services like **Nginx**, **Tomcat**, **MySQL**, **Memcached**, and **RabbitMQ**.
@@ -22,29 +22,29 @@ In this project, you'll:
 ## **📐 Architecture**
 
 ### **Services in the Stack**
-- **Nginx:** Load balancing service for routing requests. 🌐
-- **Tomcat:** Java web application server to host your app. ☕
-- **MySQL:** Database service for user data. 🗄️
-- **Memcached:** Database caching for faster access. ⚡
-- **RabbitMQ:** Dummy message queue for added complexity. 🐇
+- **Nginx:** Load balancing service for routing requests. 
+- **Tomcat:** Java web application server to host your app. 
+- **MySQL:** Database service for user data. 
+- **Memcached:** Database caching for faster access. 
+- **RabbitMQ:** Dummy message queue for added complexity. 
 
 ### **Automation Tools**
-- **Vagrant:** Automates VM creation and provisioning. 🤖
-- **VirtualBox:** Hypervisor to host the virtual machines. 💾
-- **Git Bash:** Command-line tool for scripting and version control. 📜
+- **Vagrant:** Automates VM creation and provisioning. 
+- **VirtualBox:** Hypervisor to host the virtual machines. 
+- **Git Bash:** Command-line tool for scripting and version control. 
 
 ---
 
-## **🛠️ Tools Required**
+### **🛠️ Tools Required**
 Make sure you have the following installed:
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)
 - [Vagrant](https://www.vagrantup.com/)
 - [Git Bash](https://git-scm.com/downloads)
-- IDE of your choice: **Sublime Text**, **Visual Studio Code**, etc. ✏️
+- IDE of your choice: **Sublime Text**, **Visual Studio Code**, etc. 
 
 ---
 
-## **🚀 Getting Started**
+## ** Getting Started**
 1. Clone this repository:
    ```bash
    git clone https://github.com/poppyszn/V-Profile-Project-Setup-Automated-Multi-Tier-Web-Application-Stack.git
@@ -77,11 +77,12 @@ Make sure you have the following installed:
 
 7. Open your browser and access the application using the VM's IP address.
 
-## **🎯 Objectives**
+### **🎯 Objectives**
 Infrastructure Automation: Automate the deployment of multi-tier stacks using Vagrant.
 Service Configuration: Gain experience in configuring real-world services.
 Research & Development: Build confidence by experimenting in a safe, repeatable local environment.
-## **📜 Flow of Execution**
+
+### **📜 Flow of Execution**
 1. Install tools from the prerequisites.
 2. Clone the project and navigate to the Vagrant directory.
 3. Launch VMs using the Vagrantfile.
@@ -93,19 +94,7 @@ Research & Development: Build confidence by experimenting in a safe, repeatable 
   - Nginx
 5. Build and deploy the Java application.
 6. Test the setup from your browser.
-## **🌈 What's Next?**
-This project sets the stage for future tasks:
-- 🐳 Containerization: Deploy the stack using Docker.
-- ☸️ Kubernetes: Orchestrate services in a Kubernetes cluster.
-- 🛡️ CI/CD Pipelines: Automate deployments with Jenkins and Ansible.
-- 🌍 Cloud Deployments: Expand to AWS and beyond.
-## **📖 Resources**
-- [Nginx Documentation]()
-- [Tomcat Documentation]()
-- [Vagrant Documentation]()
-- [RabbitMQ Documentation]()
-## **🙌 Contributing**
-Feel free to fork this project, raise issues, or submit pull requests. Contributions are always welcome! 😊
-## **📜 License**
-This project is licensed under the MIT License.
+
+### Acknowledgments
+This project was developed as part of a DevOps training series to demonstrate the deployment of a fully automated, multi-tier web application stack.
 
